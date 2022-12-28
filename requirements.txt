@@ -1,0 +1,7 @@
+flask
+flask_restful
+flask_jwt
+db
+flask_sqlalchemy
+db-sqlite3
+werkzeug==2.0.0
