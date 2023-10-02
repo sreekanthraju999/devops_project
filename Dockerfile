@@ -7,7 +7,7 @@ WORKDIR /app
 COPY requirements.txt .
 
 # Install the required Python packages
-RUN pip:20.3.3 install -r requirements.txt
+RUN pip==20.3.3 install -r requirements.txt
 
 # Copy the rest of the application code to the working directory
 COPY . .
