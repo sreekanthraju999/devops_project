@@ -1,7 +1,7 @@
-flask
-flask_restful
-flask_jwt
+flask==1.1.2
+flask_restful==0.3.9
+flask_jwt==0.3.2
 db
-flask_sqlalchemy
+flask_sqlalchemy==2.4.4
 db-sqlite3
-werkzeug==2.0.0
+werkzeug==2.0.2
