@@ -4,4 +4,4 @@ flask_jwt==0.3.2
 db
 flask_sqlalchemy==2.4.4
 db-sqlite3
-werkzeug==2.0.2
+werkzeug==2.2.2
